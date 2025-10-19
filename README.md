@@ -1,7 +1,6 @@
 # C_Algo_Lab
 Repository for learning and practicing C algorithms with exercises.
 
-# C_Algo_Lab
 
 C_Algo_Lab is a repository for learning and practicing algorithms in C. 
 It contains simple problems, coding exercises, and example solutions 
