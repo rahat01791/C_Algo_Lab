@@ -3,6 +3,13 @@
 https://phitron.io/ph028/video/ph028-9-3-insert-a-value-in-an-array-implementation
 */
 /*
+Given an integer N, create an array of size N. Then take input from the user in the form of:
+    • an index, and
+    • a value.
+You need to add the value to the array at the given index.
+After all inputs, print the final array..
+*/
+/*
 5
 10 30 40 50 60
 1 20
@@ -64,3 +71,4 @@ https://www.codechef.com/users/rahat01791
 Codeforces profile link :
 https://codeforces.com/profile/RAHAT01791
 */
+
