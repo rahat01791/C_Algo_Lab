@@ -1,5 +1,5 @@
 /*
-https://www.hackerrank.com/contests/mid-term-a-introduction-to-c-programming-a-batch-08/challenges/count-me-2-1/submissions/code/1399385388
+https://codeforces.com/group/MWSDmqGsZm/contest/219158/m
 */
 /*
 Given two numbers A and B. Print "Yes" if A is greater than or equal to B. Otherwise print "No".
@@ -44,3 +44,4 @@ Codeforces profile link :
 https://codeforces.com/profile/RAHAT01791
 
 */
+
