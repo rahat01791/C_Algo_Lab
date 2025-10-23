@@ -1,5 +1,5 @@
 /*
-https://www.hackerrank.com/contests/mid-term-a-introduction-to-c-programming-a-batch-08/challenges/count-me-2-1/problem
+https://www.hackerrank.com/contests/mid-term-a-introduction-to-c-programming-a-batch-08/challenges/count-me-2-1/submissions
 */
 /*
 You will be given an integer array A of size N. You need to count the number of elements that are divided by 2 and number of elements that are divided by 3. If any number is divided by both 2 and 3, then consider it only for 2.
@@ -57,4 +57,5 @@ https://www.codechef.com/users/rahat01791
 /*
 Codeforces profile link :
 https://codeforces.com/profile/RAHAT01791
+
 */
