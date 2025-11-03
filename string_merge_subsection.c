@@ -4,11 +4,13 @@ All indices are 0-based.
 */
 
 /*
+Input :
 hello
 world
 2 4
 */
-
+Output :
+hellorld
 /*
 Author: MD RAHAT
 GitHub: https://github.com/rahat01791
@@ -51,3 +53,4 @@ int main()
 
     return 0;
 }
+
