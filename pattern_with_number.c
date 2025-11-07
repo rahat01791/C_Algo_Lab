@@ -1,3 +1,29 @@
+/*
+Author: MD RAHAT
+GitHub: https://github.com/rahat01791
+Hackerrank: https://www.hackerrank.com/profile/rshf01791
+Codeforces: https://codeforces.com/profile/RAHAT01791
+Leetcode: https://leetcode.com/u/rahat01791/
+CodeChef: https://www.codechef.com/users/rahat01791
+CodeChef: https://www.codechef.com/users/rahat_01791
+*/
+
+/*
+Problem Statement :
+You will be given a positive integer N, you need to print a pattern shown below using this N.
+*/
+/*
+Sample Input 2
+5
+Sample Output 2
+
+    1
+   21
+  321
+ 4321
+54321
+*/
+
 #include<stdio.h>
 int main()
 {
@@ -24,4 +50,5 @@ int main()
         
     }
     return 0;
+
 }
